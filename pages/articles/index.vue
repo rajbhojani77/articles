@@ -7,8 +7,8 @@
           img-alt="Card image"
           img-left
           style="max-width: 100rem;"
-          border-variant="primary"
-          header-bg-variant="primary"
+          border-variant="info"
+          header-bg-variant="info"
           header-text-variant="white"
           align="center"
           class="mt-3 mb-3"
