@@ -42,7 +42,7 @@ export default {
     // Build Configuration (https://go.nuxtjs.dev/config-build)
     axios: {
       // See https://github.com/nuxt-community/axios-module#options
-      baseURL: 'https://strapi.lakritsroten.se', //https://viewer.uiib.us
+      baseURL: 'https://strapi.lakritsroten.se',
       retry: true
     },
 
